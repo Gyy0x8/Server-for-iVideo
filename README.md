@@ -1,4 +1,4 @@
-# Server for iVideo - VLog视频制作工具
+# Server for iVideo - VLog视频制作工具说明文档
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![Vue](https://img.shields.io/badge/Vue-3.0+-green.svg)](https://vuejs.org/)
@@ -45,8 +45,8 @@
 #### 1. 克隆项目
 
 ```bash
-git clone https://github.com/your-username/ivideo.git
-cd ivideo
+git clone https://github.com/Gyy0x8/Server-for-iVideo.git
+cd Server-for-iVideo
 ```
 
 #### 2. 后端部署
